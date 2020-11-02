@@ -1,0 +1,15 @@
+body{
+margin: 20;
+padding: 0px;
+}
+input{
+    height: 40px;
+    font-size: 20px;
+    line-height: 20px;
+}
+#hidden{
+display: none;
+}
+p{
+    font-size: 25px;
+}
